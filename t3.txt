@@ -1,0 +1,2 @@
+Git a version control system
+It is read only
